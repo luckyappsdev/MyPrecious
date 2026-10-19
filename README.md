@@ -1,15 +1,16 @@
 # My precious! / Моя прелесть!
 
-**Car maintenance planner for Android**
-**Планировщик технического обслуживания автомобилей для Android**
+**Car insurance and maintenance planner for Android**
+**Планировщик страхования и технического обслуживания автомобилей для Android**
 
 ## English
 
-My precious! is a maintenance planner for your cars. Enter the date of the last oil, filter, spark plug or brake pad change, and the app calculates the next service date and reminds you in advance.
+My precious! is a car insurance and maintenance planner. Set the policy expiry date, or the date of the last oil, filter, spark plug or brake pad change, and the app will remind you in advance as the policy expiry date or the planned service date approaches.
 
 **Features**
 - Up to 5 cars can be tracked.
-- Reminders 10, 5 and 1 day before the planned date, and every 5 days if it is missed.
+- For each car you can add up to 5 insurance policies, entering the name and the policy expiry date of each.
+- Reminders 30, 10 and 1 day before the set date or the planned deadline, and every 5 days if they are missed.
 - Colour-coded deadlines: green (over 90 days), yellow (90–30), orange (under 30), red (service not done).
 - The list of routine services was selected by the author. Replacement intervals are recommendations only and reflect the author's subjective opinion, based on statistics and personal experience, but are not a substitute for the vehicle's owner's manual.
 - Interface languages: English, Русский, Español, Português, Nederlands, 简体中文.
@@ -33,11 +34,12 @@ Author: LuckyGreenhorn. The app is free for personal use. The source code is not
 
 ## Русский
 
-Моя прелесть! — планировщик технического обслуживания ваших автомобилей. Задайте дату последней замены масла, фильтров, свечей, колодок и других элементов, и приложение рассчитает срок следующей замены и заранее напомнит о ней.
+Моя прелесть! — планировщик страхования и технического обслуживания ваших автомобилей. Установите дату окончания действия полиса страхования или задайте дату последней замены масла, фильтров, свечей, колодок и других элементов, и приложение заранее напомнит о приближении даты окончания действия полиса или даты планового обслуживания.
 
 **Возможности**
 - Можно вести до 5 автомобилей.
-- Напоминания за 10, 5 и 1 день до запланированного срока, а при его пропуске — через каждые 5 дней.
+- Для каждого автомобиля можно добавить до 5 страховок, вводя название и дату окончания действия полиса каждой.
+- Напоминания за 30, 10 и 1 день до установленной даты или запланированного срока, а при их пропуске — через каждые 5 дней.
 - Цветовая индикация приближения обслуживания: зелёный (больше 90 дней), жёлтый (90–30), оранжевый (меньше 30), красный (обслуживание не выполнено).
 - Перечень регламентных работ подобран автором. Сроки замены носят рекомендательный характер и отражают субъективное мнение автора, основанное на статистике и собственном опыте, однако не являются заменой руководства по эксплуатации.
 - Языки интерфейса: English, Русский, Español, Português, Nederlands, 简体中文.
